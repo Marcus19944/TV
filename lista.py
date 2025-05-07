@@ -735,7 +735,7 @@ def vavoo_italy_channels():
                     tvg_id = channel_id_map.get(normalized_name, "")
                     tvg_logo = logos_dict.get(tvg_name_cleaned.lower(), DEFAULT_TVG_ICON)
                     f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_name_cleaned}" tvg-logo="{tvg_logo}" group-title="{category}", {name}\n')
-                    f.write(f"https://nzo66-piccolotest.hf.space/proxy/m3u?url={url}\n\n")
+                    f.write(f"https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d={url}\n\n")
     
     def main():
         epg_root = fetch_epg(EPG_FILE)
