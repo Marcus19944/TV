@@ -26599,16 +26599,6 @@
     <desc lang="it">Formula 2 : Qatar Airways British GP - Practice trasmesso in diretta.</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <programme start="20250704000000 +0000" stop="20250704080000 +0000" channel="577">
-    <title lang="it">inizierà alle 10:00.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704080000 +0000" stop="20250704100000 +0000" channel="577">
-    <title lang="it">Formula 3 : Qatar Airways British GP - Practice</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Practice trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <programme start="20250704000000 +0000" stop="20250704113000 +0000" channel="577">
     <title lang="it">inizierà alle 13:30.</title>
     <desc lang="it">Formula 1 : Qatar Airways British GP - Practice 1.</desc>
