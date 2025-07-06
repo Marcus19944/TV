@@ -27768,26 +27768,6 @@
     <desc lang="it">UEFA Women's Euro : Norway vs Finland trasmesso in diretta.</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250706000000 +0000" stop="20250706083000 +0000" channel="577">
-    <title lang="it">inizierà alle 10:30.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250706083000 +0000" stop="20250706103000 +0000" channel="577">
-    <title lang="it">Formula 3 : Qatar Airways British GP - Race</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Race trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250706000000 +0000" stop="20250706103000 +0000" channel="577">
-    <title lang="it">inizierà alle 12:30.</title>
-    <desc lang="it">Formula 2 : Qatar Airways British GP - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250706103000 +0000" stop="20250706123000 +0000" channel="577">
-    <title lang="it">Formula 2 : Qatar Airways British GP - Race</title>
-    <desc lang="it">Formula 2 : Qatar Airways British GP - Race trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <programme start="20250706000000 +0000" stop="20250706130000 +0000" channel="577">
     <title lang="it">inizierà alle 15:00.</title>
     <desc lang="it">Formula 1 : Qatar Airways British GP - Grand Prix Sunday.</desc>
@@ -27807,16 +27787,6 @@
     <title lang="it">Formula 1 : Qatar Airways British GP - Race</title>
     <desc lang="it">Formula 1 : Qatar Airways British GP - Race trasmesso in diretta.</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250706000000 +0000" stop="20250706104500 +0000" channel="882">
-    <title lang="it">inizierà alle 12:45.</title>
-    <desc lang="it">Giro d'Italia Women | Stage 1 Bergamo - Bergamo Tudor (ITT, 14.2km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250706104500 +0000" stop="20250706124500 +0000" channel="882">
-    <title lang="it">Giro d'Italia Women | Stage 1 Bergamo - Bergamo Tudor (ITT, 14.2km)</title>
-    <desc lang="it">Giro d'Italia Women | Stage 1 Bergamo - Bergamo Tudor (ITT, 14.2km) trasmesso in diretta.</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <programme start="20250706000000 +0000" stop="20250706120000 +0000" channel="879">
     <title lang="it">inizierà alle 14:00.</title>
