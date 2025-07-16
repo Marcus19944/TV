@@ -25132,6 +25132,46 @@
 <programme start="20250717211000 +0000" stop="20250717213500 +0000" channel="zonadazn.it"><title>Decido io</title><desc>Un viaggio dietro le quinte della...</desc></programme>
 <programme start="20250717213500 +0000" stop="20250717230000 +0000" channel="zonadazn.it"><title>Mario Balotelli</title><desc>A 34 anni Mario Balotelli ripercorre...</desc></programme>
 <programme start="20250717230000 +0000" stop="20250718040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
+<programme start="20250716000000 +0000" stop="20250716190000 +0000" channel="851">
+    <title lang="it">inizierà alle 21:00.</title>
+    <desc lang="it">UEFA Women's Euro : Norway vs Italy.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250716190000 +0000" stop="20250716210000 +0000" channel="851">
+    <title lang="it">UEFA Women's Euro : Norway vs Italy</title>
+    <desc lang="it">UEFA Women's Euro : Norway vs Italy trasmesso in diretta.</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250716000000 +0000" stop="20250716054500 +0000" channel="882">
+    <title lang="it">inizierà alle 07:45.</title>
+    <desc lang="it">World Championship : Italy vs South Africa.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250716054500 +0000" stop="20250716074500 +0000" channel="882">
+    <title lang="it">World Championship : Italy vs South Africa</title>
+    <desc lang="it">World Championship : Italy vs South Africa trasmesso in diretta.</desc>
+    <category lang="it">Water polo</category>
+  </programme>
+  <programme start="20250716000000 +0000" stop="20250716093000 +0000" channel="882">
+    <title lang="it">inizierà alle 11:30.</title>
+    <desc lang="it">World Championship : Greece vs Croatia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250716093000 +0000" stop="20250716113000 +0000" channel="882">
+    <title lang="it">World Championship : Greece vs Croatia</title>
+    <desc lang="it">World Championship : Greece vs Croatia trasmesso in diretta.</desc>
+    <category lang="it">Water polo</category>
+  </programme>
+  <programme start="20250716000000 +0000" stop="20250716124500 +0000" channel="882">
+    <title lang="it">inizierà alle 14:45.</title>
+    <desc lang="it">World Championship : Spain vs Hungary.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250716124500 +0000" stop="20250716144500 +0000" channel="882">
+    <title lang="it">World Championship : Spain vs Hungary</title>
+    <desc lang="it">World Championship : Spain vs Hungary trasmesso in diretta.</desc>
+    <category lang="it">Water polo</category>
+  </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250716010000 +0000" stop="20250716012800 +0000">
     <title>FailFactory: What's Up Dog?</title>
     <episode-num system="onscreen">S04E412</episode-num>
