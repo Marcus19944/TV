@@ -26809,15 +26809,25 @@
     <desc lang="it">Club Friendly Premier League Summer Series : Manchester United vs Everton trasmesso in diretta.</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250803000000 +0000" stop="20250803202200 +0000" channel="877">
-    <title lang="it">inizierà alle 22:22.</title>
+  <programme start="20250803000000 +0000" stop="20250803214200 +0000" channel="877">
+    <title lang="it">inizierà alle 23:42.</title>
     <desc lang="it">Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250803202200 +0000" stop="20250803222200 +0000" channel="877">
+  <programme start="20250803214200 +0000" stop="20250803234200 +0000" channel="877">
     <title lang="it">Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia</title>
     <desc lang="it">Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia trasmesso in diretta.</desc>
     <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250804000000 +0000" stop="20250804094500 +0000" channel="878">
+    <title lang="it">inizierà alle 11:45.</title>
+    <desc lang="it">Tour of Poland | Stage 1 Main | Wrocław - Legnica (199.7km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250804094500 +0000" stop="20250804114500 +0000" channel="878">
+    <title lang="it">Tour of Poland | Stage 1 Main | Wrocław - Legnica (199.7km)</title>
+    <desc lang="it">Tour of Poland | Stage 1 Main | Wrocław - Legnica (199.7km) trasmesso in diretta.</desc>
+    <category lang="it">Cycling</category>
   </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250803183700 +0000" stop="20250803190700 +0000">
     <title>FailArmy</title>
