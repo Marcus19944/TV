@@ -75,7 +75,7 @@ https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest
 #EXTINF:-1 tvg-id="" tvg-name="RAI SPORT [LIVE DURING EVENTS ONLY]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Rai", RAI SPORT [LIVE DURING EVENTS ONLY]
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/551730224/index.m3u8
 
-#EXTINF:-1 tvg-id="raisport+hd.it" tvg-name="RAI SPORT+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Rai", RAI SPORT+
+#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Rai", RAI SPORT+
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/843891896/index.m3u8
 
 #EXTINF:-1 tvg-id="raistoria.it" tvg-name="RAI STORIA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Rai", RAI STORIA
@@ -180,7 +180,7 @@ https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest
 #EXTINF:-1 tvg-id="skysport.it" tvg-name="SKY SPORT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport", SKY SPORT
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/924661659/index.m3u8
 
-#EXTINF:-1 tvg-id="skysport24.it" tvg-name="SKY SPORT 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport", SKY SPORT 24
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport", SKY SPORT 24
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/2775802255/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 24 [LIVE DURING EVENTS ONLY]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport", SKY SPORT 24 [LIVE DURING EVENTS ONLY]
@@ -249,10 +249,10 @@ https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest
 #EXTINF:-1 tvg-id="" tvg-name="SKY SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport", SKY SUPER TENNIS
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/558282118/index.m3u8
 
-#EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/3165086929/index.m3u8
 
-#EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA (2)
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport", SPORT ITALIA (2)
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
@@ -273,7 +273,7 @@ https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest
 #EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="https://images.tennis.com/image/upload/t_16-9_768/v1620828532/tenniscom-prd/assets/Fallback/Tennis_Fallback_v6_f5tjzv.jpg" group-title="Sport", TENNIS CHANNEL
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/2716316208/index.m3u8
 
-#EXTINF:-1 tvg-id="topcalcio24.it" tvg-name="TOP CALCIO 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHW5VLQDGnNMVZszgWZRqnBSjPUTgAcUltQ&s" group-title="Sport", TOP CALCIO 24
+#EXTINF:-1 tvg-id="" tvg-name="TOP CALCIO 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHW5VLQDGnNMVZszgWZRqnBSjPUTgAcUltQ&s" group-title="Sport", TOP CALCIO 24
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/3835549326/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TRSPORT" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport", TRSPORT
@@ -288,10 +288,10 @@ https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ FILM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film & Serie TV", DISNEY+ FILM
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/1264775727/index.m3u8
 
-#EXTINF:-1 tvg-id="foxhd.it" tvg-name="FOX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film & Serie TV", FOX
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film & Serie TV", FOX
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/563160609/index.m3u8
 
-#EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="PREMIUM CRIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film & Serie TV", PREMIUM CRIME
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM CRIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film & Serie TV", PREMIUM CRIME
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/444768053/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACTION MOVIES" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV", RAKUTEN ACTION MOVIES
@@ -327,7 +327,7 @@ https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (3)
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/2242741766/index.m3u8
 
-#EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="SKY CINEMA COLLECTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film & Serie TV", SKY CINEMA COLLECTION
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA COLLECTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film & Serie TV", SKY CINEMA COLLECTION
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/3525837057/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film & Serie TV", SKY CINEMA COMEDY
@@ -486,10 +486,10 @@ https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest
 #EXTINF:-1 tvg-id="" tvg-name="TV7 NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStj45lIWvQ0KFzv6jyIP9vOZgPnWQirEl6dw&s" group-title="News", TV7 NEWS
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/2802329064/index.m3u8
 
-#EXTINF:-1 tvg-id="babytv.it" tvg-name="BABY TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini", BABY TV
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini", BABY TV
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/3938501125/index.m3u8
 
-#EXTINF:-1 tvg-id="babytv.it" tvg-name="BABY TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini", BABY TV (2)
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini", BABY TV (2)
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/2265727942/index.m3u8
 
 #EXTINF:-1 tvg-id="boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini", BOING
@@ -498,7 +498,7 @@ https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest
 #EXTINF:-1 tvg-id="boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini", BOING (2)
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/3373510242/index.m3u8
 
-#EXTINF:-1 tvg-id="boingplus.it" tvg-name="BOING PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini", BOING PLUS
+#EXTINF:-1 tvg-id="" tvg-name="BOING PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini", BOING PLUS
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/3841982646/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini", CARTOON NETWORK
@@ -561,10 +561,10 @@ https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari", DISCOVERY NOVE (2)
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/2651461317/index.m3u8
 
-#EXTINF:-1 tvg-id="historyhd.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY
+#EXTINF:-1 tvg-id="history.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/317837654/index.m3u8
 
-#EXTINF:-1 tvg-id="historyhd.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY (2)
+#EXTINF:-1 tvg-id="history.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY (2)
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/2134724757/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari", NAT GEO
@@ -828,7 +828,7 @@ https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro", FOOD NETWORK (2)
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/2767861049/index.m3u8
 
-#EXTINF:-1 tvg-id="france24.it" tvg-name="FRANCE 24" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/france-24-fr.png?raw=true" group-title="Altro", FRANCE 24
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/france-24-fr.png?raw=true" group-title="Altro", FRANCE 24
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/2179686828/index.m3u8
 
 #EXTINF:-1 tvg-id="giallo.it" tvg-name="GIALLO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro", GIALLO
@@ -933,7 +933,7 @@ https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest
 #EXTINF:-1 tvg-id="pesca.it" tvg-name="PESCA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/pesca-it.png?raw=true" group-title="Altro", PESCA
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/714472867/index.m3u8
 
-#EXTINF:-1 tvg-id="pescaecaccia.it" tvg-name="PESCA E CACCIA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="Altro", PESCA E CACCIA
+#EXTINF:-1 tvg-id="" tvg-name="PESCA E CACCIA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="Altro", PESCA E CACCIA
 https://marcus9456-magix.hf.space/proxy/hls/manifest.m3u8?api_password=alphatest&d=https://vavoo.to/play/3124512993/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro", PRIMA TV
