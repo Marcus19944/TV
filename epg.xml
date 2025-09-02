@@ -25709,67 +25709,7 @@
 <programme start="20250903204000 +0000" stop="20250903211600 +0000" channel="zonadazn.it"><title>Palermo Sunrise</title><desc>I gol di Amauri, le prodezze...</desc></programme>
 <programme start="20250903211600 +0000" stop="20250903223000 +0000" channel="zonadazn.it"><title>Mario Balotelli</title><desc>A 34 anni Mario Balotelli ripercorre...</desc></programme>
 <programme start="20250903223000 +0000" stop="20250904040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250902000000 +0000" stop="20250902140000 +0000" channel="576">
-    <title lang="it">inizierà alle 16:00.</title>
-    <desc lang="it">US Open Round 1 | Day 10.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250902140000 +0000" stop="20250902160000 +0000" channel="576">
-    <title lang="it">US Open Round 1 | Day 10</title>
-    <desc lang="it">US Open Round 1 | Day 10 trasmesso in diretta.</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250902000000 +0000" stop="20250902140000 +0000" channel="462">
-    <title lang="it">inizierà alle 16:00.</title>
-    <desc lang="it">US Open Round 1 | Day 10.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250902140000 +0000" stop="20250902160000 +0000" channel="462">
-    <title lang="it">US Open Round 1 | Day 10</title>
-    <desc lang="it">US Open Round 1 | Day 10 trasmesso in diretta.</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250902000000 +0000" stop="20250902140000 +0000" channel="461">
-    <title lang="it">inizierà alle 16:00.</title>
-    <desc lang="it">US Open Round 1 | Day 10.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250902140000 +0000" stop="20250902160000 +0000" channel="461">
-    <title lang="it">US Open Round 1 | Day 10</title>
-    <desc lang="it">US Open Round 1 | Day 10 trasmesso in diretta.</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250902000000 +0000" stop="20250902140000 +0000" channel="460">
-    <title lang="it">inizierà alle 16:00.</title>
-    <desc lang="it">US Open Round 1 | Day 10.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250902140000 +0000" stop="20250902160000 +0000" channel="460">
-    <title lang="it">US Open Round 1 | Day 10</title>
-    <desc lang="it">US Open Round 1 | Day 10 trasmesso in diretta.</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250902000000 +0000" stop="20250902140000 +0000" channel="878">
-    <title lang="it">inizierà alle 16:00.</title>
-    <desc lang="it">US Open Round 1 | Day 10.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250902140000 +0000" stop="20250902160000 +0000" channel="878">
-    <title lang="it">US Open Round 1 | Day 10</title>
-    <desc lang="it">US Open Round 1 | Day 10 trasmesso in diretta.</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250902000000 +0000" stop="20250902140000 +0000" channel="879">
-    <title lang="it">inizierà alle 16:00.</title>
-    <desc lang="it">US Open Round 1 | Day 10.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250902140000 +0000" stop="20250902160000 +0000" channel="879">
-    <title lang="it">US Open Round 1 | Day 10</title>
-    <desc lang="it">US Open Round 1 | Day 10 trasmesso in diretta.</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20250902000000 +0000" stop="20250902183000 +0000" channel="851">
+<programme start="20250902000000 +0000" stop="20250902183000 +0000" channel="851">
     <title lang="it">inizierà alle 20:30.</title>
     <desc lang="it">EuroBasket : Italy vs Spain.</desc>
     <category lang="it">Annuncio</category>
@@ -25778,16 +25718,6 @@
     <title lang="it">EuroBasket : Italy vs Spain</title>
     <desc lang="it">EuroBasket : Italy vs Spain trasmesso in diretta.</desc>
     <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20250902000000 +0000" stop="20250902130000 +0000" channel="878">
-    <title lang="it">inizierà alle 15:00.</title>
-    <desc lang="it">La Vuelta a España: Stage 10 Hilly | 168 km | 3000 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250902130000 +0000" stop="20250902150000 +0000" channel="878">
-    <title lang="it">La Vuelta a España: Stage 10 Hilly | 168 km | 3000 m</title>
-    <desc lang="it">La Vuelta a España: Stage 10 Hilly | 168 km | 3000 m trasmesso in diretta.</desc>
-    <category lang="it">Cycling</category>
   </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250902123700 +0000" stop="20250902130700 +0000">
     <title>FailArmy</title>
