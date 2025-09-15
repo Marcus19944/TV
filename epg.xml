@@ -28036,67 +28036,7 @@
 <programme start="20250916211400 +0000" stop="20250916214700 +0000" channel="zonadazn.it"><title>Milano</title><desc>Milano</desc></programme>
 <programme start="20250916214700 +0000" stop="20250916223000 +0000" channel="zonadazn.it"><title>Vlahovic</title><desc>Vlahovic</desc></programme>
 <programme start="20250916223000 +0000" stop="20250917040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250915000000 +0000" stop="20250915183000 +0000" channel="9">
-    <title lang="it">inizierà alle 20:30.</title>
-    <desc lang="it">Italy - Serie C : Cittadella vs Vicenza.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250915183000 +0000" stop="20250915203000 +0000" channel="9">
-    <title lang="it">Italy - Serie C : Cittadella vs Vicenza</title>
-    <desc lang="it">Italy - Serie C : Cittadella vs Vicenza trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250915000000 +0000" stop="20250915183000 +0000" channel="461">
-    <title lang="it">inizierà alle 20:30.</title>
-    <desc lang="it">Italy - Serie C : Cittadella vs Vicenza.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250915183000 +0000" stop="20250915203000 +0000" channel="461">
-    <title lang="it">Italy - Serie C : Cittadella vs Vicenza</title>
-    <desc lang="it">Italy - Serie C : Cittadella vs Vicenza trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250915000000 +0000" stop="20250915183000 +0000" channel="10">
-    <title lang="it">inizierà alle 20:30.</title>
-    <desc lang="it">Italy - Serie C : Cavese vs Giugliano.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250915183000 +0000" stop="20250915203000 +0000" channel="10">
-    <title lang="it">Italy - Serie C : Cavese vs Giugliano</title>
-    <desc lang="it">Italy - Serie C : Cavese vs Giugliano trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250915000000 +0000" stop="20250915183000 +0000" channel="462">
-    <title lang="it">inizierà alle 20:30.</title>
-    <desc lang="it">Italy - Serie C : Cavese vs Giugliano.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250915183000 +0000" stop="20250915203000 +0000" channel="462">
-    <title lang="it">Italy - Serie C : Cavese vs Giugliano</title>
-    <desc lang="it">Italy - Serie C : Cavese vs Giugliano trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250915000000 +0000" stop="20250915184500 +0000" channel="11">
-    <title lang="it">inizierà alle 20:45.</title>
-    <desc lang="it">Italy - Serie A : Como vs Genoa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250915184500 +0000" stop="20250915204500 +0000" channel="11">
-    <title lang="it">Italy - Serie A : Como vs Genoa</title>
-    <desc lang="it">Italy - Serie A : Como vs Genoa trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250915000000 +0000" stop="20250915184500 +0000" channel="870">
-    <title lang="it">inizierà alle 20:45.</title>
-    <desc lang="it">Italy - Serie A : Como vs Genoa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250915184500 +0000" stop="20250915204500 +0000" channel="870">
-    <title lang="it">Italy - Serie A : Como vs Genoa</title>
-    <desc lang="it">Italy - Serie A : Como vs Genoa trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250915000000 +0000" stop="20250915230000 +0000" channel="878">
+<programme start="20250915000000 +0000" stop="20250915230000 +0000" channel="878">
     <title lang="it">inizierà alle 01:00.</title>
     <desc lang="it">World Championships Tokyo | Day 4 | Session 1.</desc>
     <category lang="it">Annuncio</category>
